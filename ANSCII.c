@@ -6,5 +6,6 @@ int main()
         printf("\n %c -> %d", c,c);
     }
     PROMQNA ZA REPO;
+    PROMQNA ZA TEST1
     return 0;
 }
